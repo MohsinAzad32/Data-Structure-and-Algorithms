@@ -8,6 +8,6 @@ public class RichestWealth {
 
 
     public int maximumwealth(int[][] arr){
-
+return 1;
     }
 }
